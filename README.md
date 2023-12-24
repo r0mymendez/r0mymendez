@@ -20,7 +20,7 @@ I'm **Romy Mendez** ([@r0mymendez](https://r0mymendez.github.io/romymendezblog/b
 
 [![Twitter](https://img.shields.io/twitter/follow/r0mymendez?label=Twitter&style=social)](https://twitter.com/r0mymendez)[![Blog](https://img.shields.io/badge/Blog-Visit-%23fc46aa?style=flat&labelColor=000000)](https://r0mymendez.github.io/romymendezblog/blog.html)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/mendezromina/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&labelColor=black&logo=medium&logoColor=white)](https://dev.to/r0mymendez)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&labelColor=black&logo=medium&logoColor=white)](https://medium.com/@romina.elena.mendez)
 [![Dev.io](https://img.shields.io/badge/Dev.io-Visit-%23fc46aa?style=flat&labelColor=000000&logo=dev.to&logoColor=fc46aa)](https://dev.to/r0mymendez)
 
 
