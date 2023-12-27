@@ -10,7 +10,6 @@
 
 I'm **Romy Mendez** ([@r0mymendez](https://r0mymendez.github.io/romymendezblog/blog.html)), currently working as a Data Cloud Architect and a professor at the **University of Belgrano**. I'm passionate about technology 🚀 and actively involved in social projects 🤝. If you're looking for collaboration on a specific project or need guidance for embarking on a new technological adventure, feel free to reach out to me through any of my social channels.
 
-
 ![GitHub Followers](https://img.shields.io/github/followers/r0mymendez?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/r0mymendez?style=social)
 
@@ -67,7 +66,10 @@ I'm **Romy Mendez** ([@r0mymendez](https://r0mymendez.github.io/romymendezblog/b
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4F5A?style=flat&logo=streamlit&logoColor=white)](https://www.streamlit.io/)
 [![Amazon QuickSight](https://img.shields.io/badge/QuickSight-1976D2?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/quicksight/)
 
+---
 
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=r0mymendez&show_icons=true&card_width=320&theme=radical" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0mymendez&hide_progress=true&langs_count=5&layout=donut&theme=radical)
 
 ---
 
