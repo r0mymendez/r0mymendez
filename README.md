@@ -69,7 +69,7 @@ I'm **Romy Mendez** ([@r0mymendez](https://r0mymendez.github.io/romymendezblog/b
 ---
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=r0mymendez&show_icons=true&card_width=320&theme=radical" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0mymendez&hide_progress=true&langs_count=5&layout=donut&theme=radical)
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0mymendez&hide_progress=true&langs_count=5&layout=donut&theme=radical" />
 
 ---
 
