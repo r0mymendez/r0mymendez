@@ -1,10 +1,7 @@
 
 <h1 style="padding: 10px;">
-    <span style="margin-left: 1px;">Hello! I am Romina Mendez 👋</span>
+    <span style="margin-left: 1px;">Hello! I am Romina Elena Mendez Escobar👋</span>
 </h1>
-
-<img src="img/portada.png" alt="romi-avatar" width="100%">
-
 
 ## 👩‍💻 Who am I?
 
